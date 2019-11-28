@@ -1,6 +1,6 @@
 # App Quiz
 
-Reason: Study
+Objective: Study
 Goals: Learn the Quiz Logic + Passing data using React Navigation.
 
 
