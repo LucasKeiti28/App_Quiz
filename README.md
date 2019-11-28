@@ -1,7 +1,8 @@
-# Project Title
+# App Quiz
 
 Reason: Study
 Goals: Learn the Quiz Logic + Passing data using React Navigation.
+
 
 ## Getting Started
 
